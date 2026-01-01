@@ -1,4 +1,8 @@
-# ✋ Unvoiced: Sign Language to Speech Converter
+# THIS REPO WILL BE GETTING UPDATED AND CONVERTED TO WORK 100% IF THERE ARE ANY ISSUES 
+
+# :)
+
+### ✋ Unvoiced: Sign Language to Speech Converter
 
 Welcome to **Unvoiced**, an innovative application that translates American Sign Language (ASL) into speech! 🎤
 
